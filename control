@@ -1,0 +1,9 @@
+Package: ee.mait.iponcc
+Name: IPonCC
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Show IP info in CC
+Author: BlanxdH
+Section: Control Center (Modules)
+Depends: mobilesubstrate, com.ioscreatix.silo, firmware (>= 11)
+Maintainer: BlanxdH
