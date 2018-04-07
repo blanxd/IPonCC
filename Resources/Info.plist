@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>IPonCC</string>
 	<key>CFBundleIdentifier</key>
-	<string>ee.mait.iponsilocc</string>
+	<string>u.blanxd.iponcc</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -30,7 +30,7 @@
 	<key>ModuleSize</key>
 	<dict>
 		<key>columns</key>
-		<string>4</string>
+		<string>1</string>
 		<key>rows</key>
 		<string>1</string>
 	</dict>
@@ -38,12 +38,5 @@
 	<array>
 		<string>iPhoneOS</string>
 	</array>
-	<key>_CCModuleSizePROTOTYPE</key>
-	<dict>
-		<key>height</key>
-		<string>1</string>
-		<key>width</key>
-		<string>4</string>
-	</dict>
 </dict>
 </plist>
