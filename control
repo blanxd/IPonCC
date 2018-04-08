@@ -5,6 +5,6 @@ Architecture: iphoneos-arm
 Description: Show IP info in CC
 Author: BlanxdH
 Section: Control Center (Modules)
-Depends: mobilesubstrate, com.ioscreatix.silo, firmware (>= 11)
+Depends: cy+cpu.arm64, firmware (>= 11), firmware (<< 11.2), mobilesubstrate, com.ioscreatix.silo
 Conflicts: ee.mait.iponcc
 Maintainer: BlanxdH
