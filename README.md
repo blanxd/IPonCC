@@ -1,6 +1,12 @@
 # IPonCC
 Shows all sorts of IP addresses for the device in the iOS Control Center. Cellular, WiFi and VPN, both IPv4 and IPv6.
 
+**[Version 1.2](https://github.com/blanxd/IPonCC/releases) (2018-05-10)**
+* 3D-touch now shows everything unfiltered, all interfaces by their BSD names.
+* Internal optimizations, [CCSupport](https://github.com/opa334/CCSupport) is now a dependency.
+
+The public source files here remain the very alpha ones (ver.0.0.1), simply gathering the IP info and it only works by 3D-pressing the toggle.
+
 **[Version 1.1](https://github.com/blanxd/IPonCC/releases) (2018-04-14)**
 * Functionality remains as in version 1.0
 * Completely removed the dependency for Silo. It now only depends on iOS11 and MobileSubstrate of course.
