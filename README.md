@@ -1,6 +1,14 @@
 # IPonCC
 Shows all sorts of IP addresses for the device in the iOS Control Center. Cellular, WiFi and VPN, both IPv4 and IPv6.
 
+**[Version 1.3](https://github.com/blanxd/IPonCC/releases) (2018-06-04)**
+This is the way it was supposed to work in the 1st place:                                                                                                                                             
+* Adds a separate "IP Addresses" item to the list of CC modules, which displays the addresses straight on the CC (3x1 size). 3D/long-touch on the module shows the expanded list with IPv6 addresses.
+* The "IP Button" item in the module list can be used if there's no room for a 3x1 sized item in your CC, need to tap it to see the addresses.
+* Adds a button in the expanded view for choosing whether to show a regular list or the internal unfiltered address list.
+
+The public source files here remain the very alpha ones (ver.0.0.1), simply gathering the IP info and it only works by 3D-pressing the toggle.
+
 **[Version 1.2](https://github.com/blanxd/IPonCC/releases) (2018-05-10)**
 * 3D-touch now shows everything unfiltered, all interfaces by their BSD names.
 * Internal optimizations, [CCSupport](https://github.com/opa334/CCSupport) is now a dependency.
