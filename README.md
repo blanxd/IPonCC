@@ -1,4 +1,4 @@
-# IPonCC ([updates are hosted elsewhere since 2018-06](https://gitlab.com/blanxd/IPonCC/tags))
+# IPonCC ([updates are hosted elsewhere since 2018-06](https://gitlab.com/blanxd/IPonCC/-/releases))
 Shows all sorts of IP addresses for the device in the iOS Control Center. Cellular, WiFi and VPN (and everything else), both IPv4 and IPv6.
 
 **[Version 1.3](https://github.com/blanxd/IPonCC/releases) (2018-06-04)**
